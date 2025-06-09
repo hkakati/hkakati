@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @hkakati
-- 👀 I’m interested in machine learning and web dev. I like to design apps on sustainability
-- 🌱 I’m currently learning c++, Java, data structures and algorithm, node.js, next.js 
-- 💞️ I’m looking to collaborate on c projects
-- 📫 How to reach me: Emaill me on harshit.kakati2024@vitstudent.ac.in
-- ⚡ About me: I like to travel around the world and like to code all night😁. I am a 2nd year CSE Student at VIT Chennai. I am from the northeast Indian state of Assam
+👋 Hi, I’m Harshit Kakati (@hkakati)
+👀 Interests: Machine Learning, Web Development, Sustainable App Design
 
-- Thank you for visiting my github. Any kind of feedback on my work is always welcome. Feel free to contact me on my email.
-<!---
-hkakati/hkakati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Currently Learning: C++, Java, Data Structures & Algorithms, Node.js, Next.js
+
+💞️ Open to Collaborate On: C projects
+
+📫 Reach Me At: harshit.kakati2024@vitstudent.ac.in
+
+⚡ About Me:
+I’m a 2nd-year Computer Science student at VIT Chennai from the beautiful northeastern state of Assam, India.
+I love travelling, cooking, and coding through the night 😁.
+
+💬 Thanks for visiting my GitHub!
+Any feedback or suggestions on my projects are always welcome. Feel free to reach out via email!
+
+<!--- hkakati/hkakati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
