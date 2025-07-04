@@ -1,14 +1,14 @@
 👋 Hi, I’m Harshit Kakati (@hkakati)
 👀 Interests: Machine Learning, Web Development, Sustainable App Design
 
-🌱 Currently Learning: C++, Java, Data Structures & Algorithms, Node.js, Next.js
+🌱 Currently Learning: C++, Java,Machine Learning, Data Structures & Algorithms
 
 💞️ Open to Collaborate On: C projects
 
 📫 Reach Me At: harshit.kakati2024@vitstudent.ac.in
 
 ⚡ About Me:
-I’m a 2nd-year Computer Science student at VIT Chennai from the beautiful northeastern state of Assam, India.
+I’m a 2nd-year Computer Science student at VIT Chennai from the beautiful northeast Indian state of Assam.
 I love travelling, cooking, and coding through the night 😁.
 
 💬 Thanks for visiting my GitHub!
