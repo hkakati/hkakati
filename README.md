@@ -8,7 +8,7 @@
 📫 Reach Me At: harshit.kakati2024@vitstudent.ac.in
 
 ⚡ About Me:
-I’m a 2nd-year Computer Science student at VIT Chennai from the beautiful northeast Indian state of Assam.
+I’m a 2nd-year Computer Science student at VIT Chennai
 I love travelling, cooking, and coding through the night 😁.
 
 💬 Thanks for visiting my GitHub!
